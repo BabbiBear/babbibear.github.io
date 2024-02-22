@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hello World from BABBI!
+Hello World!
